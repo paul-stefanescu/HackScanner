@@ -1,0 +1,30 @@
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.exe
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.pdb
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csprojResolveAssemblyReference.cache
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.Form1.resources
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.Properties.Resources.resources
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csproj.GenerateResource.Cache
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csproj.CoreCompileInputs.cache
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.exe
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.pdb
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.exe.config
+C:\Users\Tatar\source\repos\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\LeapCSharp.NET3.5.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.Form1.resources
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.Properties.Resources.resources
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csproj.GenerateResource.Cache
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.exe
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\obj\Debug\TheLeapMotionEpicApp.pdb
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.exe.config
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.exe
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\TheLeapMotionEpicApp.pdb
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\LeapCSharp.NET3.5.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\NodaTime.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\NodaTime.Serialization.JsonNet.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\SkyScanner.dll
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\NodaTime.pdb
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\NodaTime.xml
+D:\Visual Studio Repository\TheLeapMotionEpicApp\TheLeapMotionEpicApp\bin\Debug\NodaTime.Serialization.JsonNet.xml
